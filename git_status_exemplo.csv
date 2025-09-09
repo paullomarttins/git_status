@@ -1,0 +1,3 @@
+remoteChange,workspaceChange,conflictType,workspace_id,workspace_name,itemMetadata.itemIdentifier.objectId,itemMetadata.itemType,itemMetadata.displayName,itemMetadata.itemIdentifier.logicalId
+,Added,None,xxxxxxxx-cccccc-eeeee-wwww-aaaaaaaa,Exemplo,xxxxxxxx-cccccc-eeeee-wwww-aaaaaaaa,report,Report1,
+,Modified,None,xxxxxxxx-cccccc-eeeee-wwww-aaaaaaaa,Exemplo2,xxxxxxxx-cccccc-eeeee-wwww-aaaaaaaa,report,Report2,
